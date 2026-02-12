@@ -1,5 +1,4 @@
 </body>
-
 <script src="js/header.js"></script>
 <script>
     const searchButtons = document.querySelectorAll('.search-btn');
